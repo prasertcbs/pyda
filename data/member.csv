@@ -1,0 +1,11 @@
+memberid,name,email,phone,fav_drink,birthdate,member_since
+1,เอก,aek@example.com,0811111111,Latte,2001-02-22,2023-01-05
+2,บุญ,boon@example.com,0812222222,Cappuccino,1970-06-12,2020-02-11
+3,ชัย,chai@example.com,0813333333,Espresso,1995-01-02,2022-07-19
+4,ดาว,dao@example.com,0814444444,Mocha,1996-03-05,2021-05-01
+5,เอกภพ,eak@example.com,0815555555,Americano,1991-03-29,2022-06-21
+6,ฟ้า,fah@example.com,0816666666,Green Tea,2001-07-27,2021-08-10
+7,กันต์,gan@example.com,0817777777,Black Tea,1990-03-26,2020-05-10
+8,หงส์,hong@example.com,0818888888,Iced Coffee,1989-11-02,2020-03-04
+9,ไอซ์,ice@example.com,0819999999,Espresso,2002-12-15,2020-09-13
+10,จิ๊บ,jib@example.com,0810000000,Mocha Cold Brew,1995-07-10,2022-02-25
