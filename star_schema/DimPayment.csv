@@ -1,0 +1,5 @@
+payment_id,payment
+0,cash
+1,credit card
+2,gift card
+3,mobile
