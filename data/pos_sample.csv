@@ -1,0 +1,6 @@
+branch,order_id,order_dt,category,menu,sweet_level,qty,price,cost,trans_type,payment,gender,membership,member_id,time_of_day,is_holiday,is_weekend,order_wait_time,order_wait_time_cat,date,revenue,gross_profit,gross_margin,day_name,iso_week_number
+alpha,alpha000001,2023-01-01 06:40:00,smoothie,Strawberry Smoothie,0.5,1,85,25,delivery,credit card,F,False,,morning,True,True,5.512420057843027,moderate,2023-01-01,85,60,0.7058823529411764,Sunday,52
+alpha,alpha000002,2023-01-01 10:02:00,tea,Black Tea,0.75,2,45,10,to go,credit card,F,False,,morning,True,True,3.3964776205533034,short,2023-01-01,90,70,0.7777777777777778,Sunday,52
+alpha,alpha000003,2023-01-01 11:25:00,bakery,Croissant,,1,85,50,to go,mobile,F,False,,noon,True,True,4.821117075156802,short,2023-01-01,85,35,0.4117647058823529,Sunday,52
+alpha,alpha000003,2023-01-01 11:25:00,smoothie,Watermelon Smoothie,0.75,1,75,30,to go,mobile,F,False,,noon,True,True,6.821117075156802,moderate,2023-01-01,75,45,0.6,Sunday,52
+alpha,alpha000004,2023-01-01 11:58:00,coffee,Americano,0.25,3,45,15,delivery,credit card,M,False,,noon,True,True,5.432762985873651,moderate,2023-01-01,135,90,0.6666666666666667,Sunday,52
